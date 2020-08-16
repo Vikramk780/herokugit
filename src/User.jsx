@@ -49,7 +49,7 @@ function User({match}){
             <div className="divv3">
 
                 <div className="divv4">
-                  <Link to={"/"}><p>Profile <p className="headh2"><img className="headimg"src={item.profilepicture}></img>name</p></p></Link>
+                  <Link to={"/"}><p>Profile <p className="headh2"><img className="headimg"src={item.profilepicture}></img>{item.name}</p></p></Link>
                 
                 
                 </div>
