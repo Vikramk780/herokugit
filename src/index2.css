@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding:0px;
+    
+}
+.maindivsecondpage{
+    width: 100%;
+    height: 100%;
+    margin:40px 36px 36px 43px;
+    
+   
+    
+    
+
+    /* background-color: chartreuse; */
+}
+
+.divv2{
+    width: 18%;
+    height: 110vh;
+    background-image: linear-gradient(60deg, #6039C8, #3A59C8);
+    float: left;
+    text-align: center;
+    border-radius: 28px;
+    
+    
+}
+.profilediv{
+margin: 250px auto;
+text-align: left;
+color:white;
+font-family: Arial;
+margin-bottom: 23px;
+line-height: 2.2rem;
+}
+
+.profilediv p{
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(206, 198, 198, 0.692);
+    margin-left: 35px;
+    margin-right: 35px;
+    }
+
+
+.divv3{
+    
+    width: 82%;
+    height: 100%;
+    /* background-color: rgb(49, 15, 241); */
+    float: left;
+}
+.divv4{
+    width: 90%;
+    height: 70px;
+    /* background-color: green; */
+    border-bottom: 1px solid rgba(206, 198, 198, 0.692);
+    margin-left: 40px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+    color: #8f8d8d;
+    font-family: Arial;
+    
+}
+.divv5{
+    
+    width: 34%;
+    height: 80%;
+    /* background-color: rgb(8, 215, 252); */
+    float: left;
+    line-height: 2.4rem;
+    
+    border-right: 1px solid rgba(206, 198, 198, 0.692);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 17px;
+    font-family: Arial;
+}
+.profiledeading1{
+    color: #8f8d8d;
+    text-align: center;
+}
+.profiledetails1{
+    color: #545454;
+    margin-left: 50px;
+    
+    
+    
+}
+.detailname1{
+    color: #afaaaaf5;
+    
+    
+}
+
+
+
+.companyeading{
+    color: #8f8d8d;;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 15px;
+    border-top: 1px solid rgba(206, 198, 198, 0.692);
+}
+
+
+
+.prifuleimg{
+    width:185px;
+    height: 185px;
+    border-radius: 50%;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: #545454;
+    
+    
+}
+.divv6{
+    
+    width: 45%;
+    height: 80%;
+    line-height: 2.2rem;
+    /* background-color: rgb(240, 14, 210); */
+    float: left;
+    margin-left: 30px;
+    
+    font-size: 18px;
+    font-family: Arial;
+}
+.Addressheading{
+    color: #8f8d8d;
+    
+}
+.address{
+    margin-left: 10px;
+    margin-right: 20px;
+    width:100px;
+    color: #afaaaaf5;
+}
+.address1{
+    margin-left: 20px;
+    color: #545454;
+}
+.headimg{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.headh2{
+    float: right;
+    margin: auto 100px;
+    color: #545454;
+}
+.mapimage{
+    margin: o auto;
+}
